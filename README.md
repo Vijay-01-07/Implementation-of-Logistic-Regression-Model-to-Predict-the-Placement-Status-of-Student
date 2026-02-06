@@ -18,8 +18,8 @@ Display the results.
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 
-RegisterNumber:  
+Developed by: VIJAYASHANKAR N
+RegisterNumber: 25002971
 */
 import pandas as pd
 import matplotlib.pyplot as plt
